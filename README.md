@@ -12,7 +12,7 @@ In this playground competition, you are provided a strictly canine subset of Ima
 
 ## Project Description:
 
-*  The notebook expalins step by step process to build CNN model that can identify the breed of the dog from image
+*  This project explains step by step process to build CNN model that can identify the breed of the dog from image
 *   We will use Fastai libraries, Fastai uses Pytorch as a background deep learning framework.
 
 *   I encourge the visitor to read to end of this notebook to gain complete understanding of building world class image classifier using deep learning
